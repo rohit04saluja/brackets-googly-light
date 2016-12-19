@@ -1,0 +1,15 @@
+{
+    "name": "rohit04saluja.googly-light",
+    "title": "Light Googly Theme",
+    "description": "Light Googly theme",
+    "homepage": "https://github.com/rohit04saluja/brackets-googly-light",
+    "version": "1.0.0",
+    "author": "Rohit Saluja <rohit04saluja@protonmail.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": false,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "googly", "light", "rohit04saluja"]
+}
